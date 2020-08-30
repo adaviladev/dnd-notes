@@ -1,0 +1,9 @@
+= Maldar =
+Player: Sean
+
+Race: Tortle
+
+Gender: Male
+
+Class: Barbarian (but actually a warlock)
+

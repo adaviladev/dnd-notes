@@ -1,0 +1,7 @@
+Race: Gnome
+
+Sex: Female
+
+Class: Bard
+
+Belongs to the order of [[The Harpers]]

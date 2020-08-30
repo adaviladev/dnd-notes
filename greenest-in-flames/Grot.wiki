@@ -1,0 +1,6 @@
+= Grot =
+Race: Goblin
+
+Sex: Male
+
+Class: Rogue(?)

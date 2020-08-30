@@ -1,0 +1,13 @@
+= Carlon Amoffel =
+Race: Human
+
+Sex: Male
+
+Class: Unknown
+
+== Description ==
+Found buried to his neck in the dirt with the words "Oathbreaker" painted on his forehead.
+
+After asking him about the [[../Cult of the Dragon|Cult of the Dragon]], he muttered something indicating membership to [[../The Harpers|The Harpers]].
+He was tracking a shipment of stolen goods. Travelers (cultists) grew suspicious of him.
+Cultists manufactured a story that he was passing information to the bandits.

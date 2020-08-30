@@ -1,10 +1,10 @@
 Current mission: Infiltrate Cultist caravans
 
-Didrik, SaladTo$$er and Grot somehow burnt down a merchant's caravan and killed three.
+[[../Didrik|Didrik]], [[../SaladTosser|SaladTosser]] and [[../Grot|Grot]] somehow burnt down a merchant's caravan and killed three and a horse?
 
-[[Lai Angesstun]] overseeing the murder is last seen entering a cultist's wagon.
+[[Lai Angesstun]] overseeing the murder is last seen entering a [[../Cult of the Dragon|cultist's]] wagon.
 
-There's some celestial [[stag]] in the distance. Didrik is trying to hunt. Archie is trying to save the deer.
+There's some celestial [[stag]] in the distance. [[../Didrik|Didrik]] is trying to hunt. [[../Archie|Archie]] is trying to save the deer.
 
 Archie saves the [[stag]] and rides him back to the caravan.
 
@@ -12,21 +12,17 @@ Ten days pass and as we near the next town, we see a head on the ground. The wor
 Carlin was buried here. 
   Lie: He broke a promise to marry a woman. Her family is composed of bandits. He left her at the altar. (Grot suspects he's lying [19 insight])
 
-[[Carlin| Carlin Amaffel]] is a member of [[../The Harpers|The Harpers]]. The caravan continues while Archie and Grot circle back.
-He was tracking a shipment of stolen goods. Travelers (cultists) grew suspicious of him.
-Cultists manufactured a story that he was passing information to the bandits.
+[[Carlon| Carlon Amoffel]] is a member of [[../The Harpers|The Harpers]]. The caravan continues while Archie and Grot circle back.
   
 Ten more days and we reach [[Dragon's Spear]]
 
 A [[Azbara Jos|human]] male with a red hood and a female gnome. 
 
-One of the travelers that's joined since Baldur's Gate seems to recognize [[Grot]] from the first raid in session 1. SaladTo$$er hands him a beer that Archie poisoned with mushrooms. Jozor and Didrik manage to ambush him a few yards away and kill him outright.
+One of the travelers that's joined since Baldur's Gate seems to recognize [[Grot]] from the first raid in session 1. [[../SaladTosser|SaladTosser]] hands him a beer that [[../Archie|Archie]] poisoned with mushrooms. [[../Jozor|Jozor]] and [[../Didrik|Didrik]] manage to ambush him a few yards away and kill him outright.
 
 [[Jamna|Jamna Gleamsilver]] is seemingly showing interest in the human male. Human has been seen entering the cultists' wagons. 
 
-Approaches Didrik and fishes out a sliver of bone in his oatmeal and is also likely in all of the party's bowls. Didrik's suspicion is pretty strong that Jamna did this to ingratiate herself with the party.
-
-[[Azbara Jos]]
+Approaches [[../Didrik|Didrik]] and fishes out a sliver of bone in his oatmeal and is also likely in all of the party's bowls. [[../Didrik|Didrik]]'s suspicion is pretty strong that [[Jamna]] did this to ingratiate herself with the party.
 
 [[Jamna]] needs a distraction so she can investigate the cultists' wagons to see what they're transporting.
 
