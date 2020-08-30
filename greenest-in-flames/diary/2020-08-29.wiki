@@ -1,4 +1,5 @@
-Current mission: Infiltrate Cultist caravans
+== Current mission: == 
+- [O] Infiltrate Cultist caravans
 
 [[../Didrik|Didrik]], [[../SaladTosser|SaladTosser]] and [[../Grot|Grot]] somehow burnt down a merchant's caravan and killed three and a horse?
 
