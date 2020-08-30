@@ -1,0 +1,94 @@
+= Contents =
+    - [[#Characters|Characters]]
+    - [[#Timeline|Timeline]]
+    - [[#Quests|Quests]]
+      - [[#Quests#Save the Mill|Save the Mill]]
+      - [[#Quests#Rescue the citizens in the temple|Rescue the citizens in the temple]]
+      - [[#Quests#Challenge the enemy champion|Challenge the enemy champion]]
+      - [[#Quests#Find the Dragon Camp|Find the Dragon Camp]]
+      - [[#Quests#Who is raiding?|Who is raiding?]]
+      - [[#Quests#Why are they raiding the area?|Why are they raiding the area?]]
+
+== Characters ==
+
+- [[Tarvo|Governor Tarvo Nighthill]]
+- Castelan Estobart
+- Lillian Swift
+
+== Timeline ==
+[[Tarvo|Governor Tarvo Nighthill]]
+
+Bunch of kobolds were attacking the castle. We rescued a bunch of civilians around town, brought them back to the keep. 
+Fought off more kobolds, then a blue drake. 
+
+[[Sean|Woodrat]] died after insulting the blue dragon. 
+
+Dragon flew away saying something about not being the drake's slave.
+
+[[Sean|Maldar]] joins the party!
+
+Mezin asks us to find [[Leosin]]
+
+== Quests ==
+
+- [X] [[#Save the Mill]]
+- [X] [[#Save the Mill|Capture a human raid leader]]
+- [X] [[#Rescue the citizens in the temple]]
+- [X] [[#Find the Dragon Camp]]
+- [X] [[#Who is raiding?]]
+- [X] [[#Why are they raiding the area?]]
+
+=== Save the Mill ===
+
+Kobols and cultists make a show of seeming to try to burn down the mill.
+The flee into the mill.
+
+It's a trap.
+
+Four guards come in just as we (the other party members) finish 
+
+Cultists belong to the Cult of the Dragon. Ushering in the reign of the Dragon Queen.
+Clutch of dragon eggs exist at the cultists's camp near town to the south west.
+
+=== Rescue the citizens in the temple ===
+
+Take out the rear guard.
+
+Gnome convinces them to leave the temple. [[Edian Falconmoon]] is the priest of the temple.
+
+=== Challenge the enemy champion ===
+
+Maldar challenges the champion and and almost dies in one hit. He releases the four captives
+
+=== Find the Dragon Camp ===
+
+Discovered a small encampment. Killed the four human cultists and the kobolds run away.
+One more cultist appears and gives us more directions to the camp. 3 miles southwest.
+
+Standard practice to leave a rear guard at the front of the camp.
+Used to ambush any followers.
+Rocky bluffs a mile out from camp to be ambushed from above. 
+
+Leader: [[Frulam Mondath]]
+
+About 100 individuals. Mix of humans, kobolds, drakes.
+[[Leosin]] elven monk captured at a stake near the camp base.
+
+Cyanwrath, purple robed dude and two others.
+
+=== Who is raiding? ===
+
+Leader: [[Frulam Mondath]]
+
+=== Why are they raiding the area? ===
+
+[[Dragon Hatchery|Camp]] of the [[Cult of the Dragon]]
+
+[[Rezmir]]
+
+[[Frulam Mondath]]
+
+"The Mother of Dragon's, Praise Tiamat's glory and when the day comes all nations of the Earth shall tremble at her mercy."
+
+
+

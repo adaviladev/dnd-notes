@@ -1,0 +1,4 @@
+= Ipa =
+
+== Notes ==
+Runs the Two-Copper Inn/Tavern for rest of the party

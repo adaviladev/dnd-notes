@@ -1,0 +1,9 @@
+Name: Lai Angesstun
+
+Race: Human
+
+Sex: Male
+
+Description: Dresses well,
+
+Occupation: Lawyer
