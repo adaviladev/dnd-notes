@@ -1,1 +1,1 @@
-[Campaigns](https://adaviladev.github.io/dnd-notes/){:target="_blank"}
+[Campaigns](https://adaviladev.github.io/dnd-notes/)
