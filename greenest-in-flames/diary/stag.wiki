@@ -3,7 +3,14 @@ Is elven prince. Cursed by father of the woman he loved. Whenever he leaves the 
 No longer remembers his name. 
 
 == Quests ==
- - [ ] A wizard may exist that may be able to lift the curse.
+ - [X] A wizard may exist that may be able to lift the curse.
+   - [X] Purchase a potion from Potion Seller to cure hex
+
+I have a list of items needed. Potion Seller mentions that the list of items is expensive.
+
+Managed to raise the funds and buy the potion.
+
+Hands me a phoenix idol with a blue and yellow glow.
 
 
 

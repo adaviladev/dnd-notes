@@ -15,8 +15,11 @@ Escorting a caravan and discover that the town of Greenest is being raided by ko
 
 == Towns ==
 
-- [[Kindle Keep]]
+- [[./diary/Baldur's Gate]]
+- [[./diary/Carnath Roadhouse]]
 - [[Elturel]]
+- [[Kindle Keep]]
+- [[./diary/Neverwinter]]
 
 == Orders ==
 
